@@ -16,14 +16,6 @@ O Spotify Analyzer é uma aplicação em Python que utiliza a API Web do Spotify
 - Matplotlib
 - Python-dotenv
 
-## Requisitos
-- Python 3.7+
-- Conta de Desenvolvedor Spotify e credenciais da API (Client ID, Client Secret, Redirect URI)
-- Pacotes Python necessários (instale via `pip`):
-  ```bash
-  pip install pandas spotipy python-dotenv matplotlib
-  ```
-
 ## Configuração
 **Configurar Variáveis de Ambiente**:
    - Crie um arquivo `.env` na raiz do projeto.

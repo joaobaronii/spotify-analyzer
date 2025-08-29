@@ -23,8 +23,8 @@ def menu():
         print("Escolha uma opção:")
         print("1- Mostrar estilos com base em artistas")
         print("2- Mostrar estilos com base em músicas")
-        print("3- Mostrar artistas")
-        print("4- Mostrar músicas")
+        print("3- Mostrar músicas")
+        print("4- Mostrar artistas")
         print("5- Sair")
         
         opcao = int(input("Escolha uma opção: "))
